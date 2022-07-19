@@ -1,0 +1,7 @@
+{
+  "domain": "pingsailor",
+  "name": "PingSailor SMS",
+  "documentation": "https://www.home-assistant.io/integrations/pingsailor",
+  "codeowners": [],
+  "iot_class": "cloud_push"
+}  
